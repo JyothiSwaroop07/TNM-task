@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+h1 {
+    font-family: "Old Standard TT";
+}
+
+.luxury-title {
+    width: 101px;
+    height: 38px;
+    font-family: "Old Standard TT";
+    color: #2B2024;
+    font-weight: 500;
+    font-size: 31px;
+}
+
+#navItem1 {
+    color: #2b2024;
+    font-family: "Old Standard TT";
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#navItem2 {
+    color: #2b2024;
+    font-family: "Old Standard TT";
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#navItem3 {
+    color: #2b2024;
+    font-family: "Old Standard TT";
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#navItem4 {
+    color: #2b2024;
+    font-family: "Old Standard TT";
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#navItem5 {
+    color: #2b2024;
+    font-family: "Old Standard TT";
+    background-color: #523C1E;
+    color: #faf7f0;
+    font-size: 18px;
+}
+
+.background {
+    height: 100%;
+}
+
+.category-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.category-heading {
+    font-size: 50px;
+    margin-bottom: 32px;
+}
+
+.categories {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.category {
+    width: 15vw;
+
+}
+
+.cat-name {
+    font-size: 16px;
+    font-weight: 400;
+    color: #2b2024;
+    font-weight: 400;
+}
+
+.item-card-image {
+    width: 100%;
+    height: 100%;
+}
+
+.item-card-title {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.item-card-price {
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.nav2-text {
+    font-weight: 500;
+    font-size: 28px;
+    color: #2b2024;
+}
+
+.service-item-img {
+    width: 100%;
+    height: 100%;
+}
+
+.service-description {
+    color: rgba(43, 32, 36, 0.6);
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.serice-heading {
+    font-weight: 700;
+    font-size: 42px;
+}
+
+.custom-button {
+    background-color: #523c1E;
+    width: 155px;
+    height: 46px;
+    color: #faf7f0;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content-2 {
+    background-color: #2B2024;
+    color: #faf7f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.neclace-image {
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    font-size: 36px;
+}
+
+.des {
+    font-size: 18px;
+}
+
+.custom-button-2 {
+    height: 48px;
+    width: 195px;
+}
+
+.btnn {
+    margin-top: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    color: #2B2024;
+    font-size: 35px;
+    margin-right: 18px;
+}
+
+.abtus-img {
+    height: 100%;
+    width: 100%;
+}
+
+.hed {
+    color: #2b2024;
+}
